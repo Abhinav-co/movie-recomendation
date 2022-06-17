@@ -1,2 +1,2 @@
 # movie-recomendation
-this is suggest movie recommendation application
+this is a movie recommendation application
